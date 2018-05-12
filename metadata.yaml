@@ -1,4 +1,8 @@
 _repo: Contes-de-Restif-de-la-Bretonne-Le-Pied-de-Fanchette-ou-le-Soulier-couleur-de-rose_47133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47133-h/images/cover.jpg
 creator:
   author:
     agent_name: Restif de La Bretonne
@@ -15,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Nicolas_Edme_Restif_de_La_Bretonne
     - http://en.wikipedia.org/wiki/Nicolas-Edme_R%C3%A9tif
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47133#Contes-de-Restif-de-la-Bretonne-Le-Pied-de-Fanchette-ou-le-Soulier-couleur-de-rose
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-10-16'
 gutenberg_type: Text
